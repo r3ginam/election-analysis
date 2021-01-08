@@ -25,10 +25,14 @@ The analysis of the election show that:
 
 - There were 369,711 votes cast in the congressional election.
 
-- The following three counties participated in this election:
-  - Denver county contributed 272,892 votes, or 73.8% of the total votes.  
-  - Jefferson county contributed 38,855 votes, or 23.0% of the total votes.
-  - Arapahoe county contributed 11,606 votes, or 6.7% of the total votes.
+- The table below shows the counties that participated in the election and the votes they contributed:
+
+
+| County: | Denver | Jefferson | Arapahoe |
+| :------------- | :-------------: | :-------------: | :-------------: |
+| Votes:  | 272,892 | 38,855 | 11,606 |
+| Percentage:  | 73.8% | 23.0% | 6.7% |
+
 
 The county with the largest voter turnout was Denver.
 
